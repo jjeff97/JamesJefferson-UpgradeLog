@@ -15,3 +15,12 @@
   <li> Book: Sweat the Technique </li>
   <li> Article: 3 clean code principles for the functional programming beginner </li>
   <li> Networking </li>
+<ul> November 7th
+  <li> Reading: Sweat The Technique </li>
+  <li> FreeCodeCamp </li>
+  <li> Networking </li>
+  </ul>
+  <ul> November 8th
+  <li> Review of previous code projects </li>
+  <li> Networking </li>
+  </ul>
